@@ -1,6 +1,4 @@
--  Hi 👋, I’m D S Dinesh Babu
-- A result-oriented and self-driven data analyst with practical experience through multiple projects using SQL, Excel, Tableau, and Python. Highly skilled in collecting, synthesizing and summarizing data. Seeking an opportunity where I can utilize my skills to achieve organization goal and enhance my analytical and technical skills.
-- 
+-  **Hi 👋, I’m D S Dinesh Babu**
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
